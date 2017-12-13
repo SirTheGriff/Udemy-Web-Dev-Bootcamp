@@ -1,0 +1,18 @@
+h1 {
+	color: rgba(0,200,100, 0.8);
+	broder-color: purple;
+	border-width: 5px;
+	border-style: solid;
+		}
+		li {
+			color: green;
+		}
+h4 {
+	background: rgb(255,100,80);
+}
+
+body {
+	/*background: url(https://c1.staticflickr.com/5/4385/36277291002_9735aee116_b.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}

@@ -1,0 +1,1 @@
+These simple sites were code alongs during Colt's online class. Emphasis was on CSS and formatting.
